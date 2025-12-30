@@ -2,6 +2,10 @@
   background-color: #DCE4F2;
   color: #0A2C59;
 }
+.lightZone h1 {
+  border-bottom: solid #0A2C59;
+  font-size: 38px;
+}
 
 .darkZone {
   background-color: #0A2C59;

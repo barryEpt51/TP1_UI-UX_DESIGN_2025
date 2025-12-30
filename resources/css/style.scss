@@ -5,6 +5,11 @@ $light: #DCE4F2;
 .lightZone{
     background-color: $light;
     color: $dark;
+
+    h1{
+        border-bottom: solid $dark;
+        font-size: 38px;
+    }
 }
 
 .darkZone{
