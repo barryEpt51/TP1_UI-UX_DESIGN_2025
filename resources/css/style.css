@@ -27,4 +27,8 @@
 header span {
   font-size: 38px;
   font-family: "Sensation";
+}
+
+.container {
+  border: solid 2px #0A2C59;
 }/*# sourceMappingURL=style.css.map */
