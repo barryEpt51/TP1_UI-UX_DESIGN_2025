@@ -30,3 +30,15 @@ $light: #DCE4F2;
         font-size: 38px;
     }
 }
+
+@font-face {
+    font-family: "Sensation";
+    src: url('../fonts/sansation/Sansation_Bold_Italic.ttf');
+}
+
+header{
+    span{
+        font-size: 38px;
+        font-family: 'Sensation';
+    }
+}
