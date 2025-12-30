@@ -10,4 +10,8 @@
 .darkZone {
   background-color: #0A2C59;
   color: #DCE4F2;
+}
+.darkZone h1 {
+  border-bottom: solid #DCE4F2;
+  font-size: 38px;
 }/*# sourceMappingURL=style.css.map */

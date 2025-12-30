@@ -15,4 +15,9 @@ $light: #DCE4F2;
 .darkZone{
     background-color: $dark;
     color: $light;
+
+    h1{
+        border-bottom: solid $light;
+        font-size: 38px;
+    }
 }
